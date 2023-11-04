@@ -1,27 +1,191 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
-:root {
-  --foreground-rgb: 0, 0, 0;
-  --background-start-rgb: 214, 219, 220;
-  --background-end-rgb: 255, 255, 255;
+/* fonts.css */
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:wght@100;200;300;400;500;700&display=swap");
+.background, .background2, .background3, .warning,.b-1,.price,.bg-bg,.background6, .bg-bg2, .bgw, .side{
+  position: relative;
+
+} 
+
+.background:before {
+  content: ' ';
+  display: block;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-image: url('../public/img.jpg');
+  background-repeat: no-repeat;
+  background-position: 0% 0;
+  background-size: cover;
+  @apply brightness-50
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --foreground-rgb: 255, 255, 255;
-    --background-start-rgb: 0, 0, 0;
-    --background-end-rgb: 0, 0, 0;
-  }
+.background2:before {
+  content: ' ';
+  display: block;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-image: url('../public/bg2.jpg');
+  background-repeat: no-repeat;
+  background-position: 0% 0;
+  background-size: cover;
+  @apply brightness-50 
+}
+.glass{
+  background: rgba( 255, 255, 255, 0.1 );
+box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.096);
+backdrop-filter: blur( 0px );
+-webkit-backdrop-filter: blur( 0px );
+border-radius: 10px;
+border: 1px solid rgba( 255, 255, 255, 0.18 );
+}
+.vid{
+  background-image: url('../public/bg1.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
-body {
-  color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
+
+ .background3:before {
+  content: ' ';
+  display: block;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-image: url('../public/bg10.jpg');
+  background-repeat: no-repeat;
+  background-position: 0% 0;
+  background-size: cover;
+  @apply brightness-50 opacity-30
+}
+
+.background6:before {
+  content: ' ';
+  display: block;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-image: url('../public/b-3.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  
+}
+
+
+.b-1:before {
+  content: ' ';
+  display: block;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-image: url('../public/b-1.jpg');
+  background-repeat: no-repeat;
+  background-position: 0% 0;
+  background-size: cover;
+
+}
+
+
+.price:before {
+  content: ' ';
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-image: url('../public/price.jpg');
+ @apply opacity-50 transition ease-in-out delay-200 hover:opacity-100 h-full object-cover
+
+}
+
+.video {   
+  object-fit: cover;   
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  z-index: -1; 
+}
+
+
+
+.bg-bg:before {
+  content: ' ';
+  display: block;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-image: url('../public/bg-bg.jpg');
+  background-repeat: no-repeat;
+  background-position: 0% 0;
+  background-size: cover;
+  
+}
+
+.bg-bg2:before {
+  content: ' ';
+  display: block;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-image: url('../public/bg-bg.jpg');
+  background-repeat: no-repeat;
+  background-position: 0% 0;
+  background-size: cover;
+  @apply transform -rotate-180 [mask-image:_linear-gradient(to_top,transparent_0,_black_128px,_black_calc(100%-200px),transparent_100%)]
+}
+
+
+
+.bgw:before {
+  content: ' ';
+  display: block;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-image: url('../public/price.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  @apply [mask-image:_linear-gradient(to_left,transparent_0,_black_128px,_black_calc(100%-200px),transparent_100%)]
+  
+}
+
+.side:before {
+  content: ' ';
+  display: block;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-image: url('../public/ghost.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  @apply [mask-image:_linear-gradient(to_left,transparent_0,_black_128px,_black_calc(100%-200px),transparent_100%)]
+  
 }
