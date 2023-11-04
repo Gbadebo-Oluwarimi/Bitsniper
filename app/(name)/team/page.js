@@ -20,7 +20,7 @@ const page = () => {
                               <div className='text-xs text-lightgreen pb-4 font-semibold'> Technology</div>
                             
                               Team
-                                  <div className='text-lg pt-4 text-gray-400 font-light'>"Empowering Users: A Play-to-Earn Approach with<br/> Polygon-Based Project Bitsniper"</div>
+                                  <div className='text-lg pt-4 text-gray-400 font-light'>Empowering Users: A Play-to-Earn Approach with<br/> Polygon-Based Project Bitsniper</div>
                               </div>
                               <div className='pt-8'>
                               Project BitSniper is created by a team of gaming industry veterans with a proven track record. The Bitsniper team consists of 14 highly skilled full-stack, blockchain and game developers, as well as UI, VR, AR, content and 3D designers. Members of the team have worked for world-renowned companies like Tencent and Ubisoft the creators of Assassins Creed, Far Cry, Watch Dogs. They bring a wealth of expertise and innovation to the table, raising the bar for blockchain gaming to new heights.

@@ -21,7 +21,7 @@ const page = () => {
                               <div className='text-xs text-lightgreen pb-4 font-semibold'> Artificial intelligence</div>
                             
                                   Use of AI
-                                  <div className='text-lg pt-4 text-gray-400 font-light'>Unleashing Immersion: AI's Impact on Dynamic Gaming Realities</div>
+                                  <div className='text-lg pt-4 text-gray-400 font-light'>Unleashing Immersion: AIs Impact on Dynamic Gaming Realities</div>
                               </div>
                               <div className='pt-8 '>
                               Our company is a collective of amazing people striving to build delightful products

@@ -25,7 +25,7 @@ export default function Home() {
     
     <div className="overflow-hidden" style={myfont.style}>
 
-
+{/* eslint-disable react/jsx-no-comment-textnodes */}
     <main style={myfont.style} className='relative text-white overflow-hidden'>
       <div className='relative  min-h-screen  overflow-hidden'>
       
@@ -33,7 +33,7 @@ export default function Home() {
         <source src="/bgbg.mp4" />
       </video>
      
-       
+       {/* eslint-disable react/jsx-no-comment-textnodes */}
        <div className='relative max-w-7xl m-auto p-7 flex justify-between align-middle '>
             <div className='font-bold tracking-wide'>
             <Image data-aos="fade-down"
