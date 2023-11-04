@@ -33,13 +33,11 @@ export default function Home() {
         <source src="/bgbg.mp4" />
       </video>
      
-        {/* <div className='absolute w-2/4 min-h-screen bg-black skew-x-12 -left-72 opacity-40 '>
-        </div>
-        <div className='absolute w-2/4 min-h-screen bg-black skew-x-12 -right-72  opacity-40 '>
-        </div> */}
+       
        <div className='relative max-w-7xl m-auto p-7 flex justify-between align-middle '>
             <div className='font-bold tracking-wide'>
             <Image data-aos="fade-down"
+            
             src="/logo.png"
              width={40}
             height={40}
@@ -96,6 +94,7 @@ export default function Home() {
     <ul class="flex items-center justify-center md:justify-start [&_li]:mx-8 [&_img]:max-w-none animate-infinite-scroll">
     <li>
         <Image src="/bg7.png"
+        alt='001'
                   width={120}
                   height={120}
                   className='grayscale hover:grayscale-0 transition ease-in-out delay-150'
@@ -103,6 +102,7 @@ export default function Home() {
         </li>
         <li>
         <Image src="/bg6.png"
+        alt='001'
                   width={120}
                   height={120}
                   className='grayscale hover:grayscale-0 transition ease-in-out delay-150'
@@ -110,6 +110,7 @@ export default function Home() {
         </li>
         <li>
         <Image src="/bg5.png"
+        alt='001'
                   width={120}
                   height={120}
                   className='grayscale hover:grayscale-0 transition ease-in-out delay-150'
@@ -117,6 +118,7 @@ export default function Home() {
         </li>
         <li>
         <Image src="/bg8.png"
+        alt='001'
                   width={120}
                   height={120}
                   className='grayscale hover:grayscale-0 transition ease-in-out delay-150'
@@ -124,6 +126,7 @@ export default function Home() {
         </li>
         <li>
         <Image src="/bg3.png"
+        alt='001'
                   width={120}
                   height={120}
                   className='grayscale hover:grayscale-0 transition ease-in-out delay-150'
@@ -131,6 +134,7 @@ export default function Home() {
         </li>
         <li>
         <Image src="/bg11.png"
+        alt='001'
                   width={120}
                   height={120}
                   className='grayscale hover:grayscale-0 transition ease-in-out delay-150'
@@ -138,6 +142,7 @@ export default function Home() {
         </li>
         <li>
         <Image src="/bg10.png"
+        alt='001'
                   width={120}
                   height={120}
                   className='grayscale hover:grayscale-0 transition ease-in-out delay-150'
@@ -147,6 +152,7 @@ export default function Home() {
     <ul class="flex items-center justify-center md:justify-start [&_li]:mx-8 [&_img]:max-w-none animate-infinite-scroll" aria-hidden="true">
         <li>
         <Image src="/bg7.png"
+        alt='001'
                   width={120}
                   height={120}
                   className='grayscale hover:grayscale-0 transition ease-in-out delay-150'
@@ -154,6 +160,7 @@ export default function Home() {
         </li>
         <li>
         <Image src="/bg6.png"
+        alt='001'
                   width={120}
                   height={120}
                   className='grayscale hover:grayscale-0 transition ease-in-out delay-150'
@@ -161,6 +168,7 @@ export default function Home() {
         </li>
         <li>
         <Image src="/bg1.png"
+        alt='001'
                   width={120}
                   height={120}
                   className='grayscale hover:grayscale-0 transition ease-in-out delay-150'
@@ -168,6 +176,7 @@ export default function Home() {
         </li>
         <li>
         <Image src="/bg4.png"
+        alt='001'
                   width={120}
                   height={120}
                   className='grayscale hover:grayscale-0 transition ease-in-out delay-150'
@@ -175,6 +184,7 @@ export default function Home() {
         </li>
         <li>
         <Image src="/bg3.png"
+        alt='001'
                   width={120}
                   height={120}
                   className='grayscale hover:grayscale-0 transition ease-in-out delay-150'
@@ -182,6 +192,7 @@ export default function Home() {
         </li>
         <li>
         <Image src="/bg2.png"
+        alt='001'
                   width={120}
                   height={120}
                   className='grayscale hover:grayscale-0 transition ease-in-out delay-150'
@@ -189,6 +200,7 @@ export default function Home() {
         </li>
         <li>
         <Image src="/bg10.png"
+        alt='001'
                   width={120}
                   height={120}
                   className='grayscale hover:grayscale-0 transition ease-in-out delay-150'
@@ -200,39 +212,7 @@ export default function Home() {
 
        </div>
        <div className='relative warning w-full p-4 min-h-3xl bg-black'>
-            {/* <div className='max-w-2xl m-auto mt-12'>
-            <div className=' text-center flex justify-between'>
-                  <div className='text-3xl'>
-                      December <span className='text-yellow-400'>2018</span>
-                      <div className='text-sm mt-2'>Play First On</div>
-                      <div className='text-4xl text-yellow-400 mt-3'>
-                        XBOX
-                      </div>
-                  </div>
-                  <div className='text-3xl mx-2'>|</div>
-                  <div className='text-3xl'>
-                      December <span className='text-yellow-400'>2018</span>
-                      <div className='text-sm mt-2'>Come to all platforms</div>
-                      <div className='text-3xl text-yellow-400 mt-3'>
-                        Ps4-pc
-                      </div>
-                  </div>
-              </div>
-            </div>
-
-              <div className='max-w-6xl m-auto p-4 flex justify-between flex-wrap mt-20'>
-                      <div className=' h-96 w-96 bg-gray-600 p-4 text-black'>
-                            <div className='text-md mt-8 ml-4'>Customize Your Soilders</div>
-                            <div></div>
-                      </div>
-                      <div>
-
-                      </div>
-                      <div className=' h-96 w-96 bg-gray-600 p-4 text-black'>
-                            <div className='text-md'>Customize Your Soilders</div>
-                            <div></div>
-                      </div>
-              </div> */}
+          
  <Biteam/>
       <div className='bg-bg2 '>
    <div className='min-h-screen grid grid-cols-6 [mask-image:_linear-gradient(to_bottom,transparent_0,_black_128px,_black_calc(100%-200px),transparent_100%)]'>
@@ -266,7 +246,7 @@ export default function Home() {
         <div data-aos="fade-right" className='mt-20 mb-20'>
           <div className='text-4xl'>A Multi-Chain <br/><span className='text-lightgreen '>war stories</span></div>
               <div className='text-xs w-96 mt-10' style={myfont.style}>
-              Our gameplay will be fair and transparent to ensure a fun and trustworthy gaming experience. We will hold community events, grant incentives and referrals, and offer opportunities for feedback and contributions to the game’s development to foster an engaged, enjoyable, and loyal community.
+              Our gameplay will be fair and transparent to ensure a fun and trustworthy gaming experience. We will hold community events, grant incentives and referrals, and offer opportunities for feedback and contributions to the games development to foster an engaged, enjoyable, and loyal community.
               </div>
               <div className='text-xs text-lightgreen mt-3'  style={poppins.style}>
                 More items
@@ -282,10 +262,10 @@ export default function Home() {
         <div className= 'hidden w-1/2 md:flex justify-between gap-4 mb-10 h-full p-5'>
         <div class="inline-block w-1/2 h-full ">
           <div data-aos="fade-down" className='bg-red-400 h-40 mb-4'>
-           <img src="/bg10.jpg" className='w-full h-full object-cover'/>
+           <img src="/bg10.jpg" alt='001' className='w-full h-full object-cover'/>
           </div>
           <div data-aos="fade-down" className='bg-red-400 h-96 '>
-          <img src="/b-5.jpg" className='w-full h-full object-cover'/>
+          <img src="/b-5.jpg" alt='001' className='w-full h-full object-cover'/>
           </div>
         </div>
         <div data-aos="fade-left" className='b-1 w-1/2'>
@@ -327,7 +307,7 @@ export default function Home() {
 
                                   <span className='text-lightgreen'>PHASE 2 : 2023 Q1</span>
                                   <div className='text-xs py-5'>
-                                  Requirement analyses/ Software design/ Software development and unit testing -Pre-alpha testing and milestone release -User flow UX charts -Customization design/ Metagame design/ Technology stack definition -3D models/ 3D animations/ VFX concepts/ Prototypes -UI (in-game) design -BitSniper.io Website Launch -BitSniper Gameplay Teaser Whitepaper v2 released -LP locked & ownership renounced -Comply with KYC and AML regulationS
+                                  Requirement analyses/ Software design/ Software development and unit testing -Pre-alpha testing and milestone release -User flow UX charts -Customization design/ Metagame design/ Technology stack definition -3D models/ 3D animations/ VFX concepts/ Prototypes -UI in-game design -BitSniper.io Website Launch -BitSniper Gameplay Teaser Whitepaper v2 released -LP locked & ownership renounced -Comply with KYC and AML regulationS
                                   </div>
 
                                   <span className='text-lightgreen'>Phase 3: 2023 Q2</span>
@@ -342,12 +322,12 @@ export default function Home() {
                                <div>
                                   <span className='text-lightgreen'>Phase 4: 2023 Q3</span>
                                   <div className='text-xs py-5'>
-                                  Requirement analyses/ Software design/ Software development and unit testing -Pre-alpha testing and milestone release -User flow UX charts -Customization design/ Metagame design/ Technology stack definition -3D models/ 3D animations/ VFX concepts/ Prototypes -UI (in-game) design -BitSniper.io Website Launch -BitSniper Gameplay Teaser -Whitepaper v2 released -LP locked & ownership renounced -Comply with KYC and AML regulation
+                                  Requirement analyses/ Software design/ Software development and unit testing -Pre-alpha testing and milestone release -User flow UX charts -Customization design/ Metagame design/ Technology stack definition -3D models/ 3D animations/ VFX concepts/ Prototypes -UI in-game design -BitSniper.io Website Launch -BitSniper Gameplay Teaser -Whitepaper v2 released -LP locked & ownership renounced -Comply with KYC and AML regulation
                                   </div>
 
                                   <span className='text-lightgreen'>Phase 5: 2023 Q4</span>
                                   <div className='text-xs py-5'>
-                                  Perpetual beta launch of BitSniper PvP v4 -Release of the Shootout Death Match v1 -NFT marketplace launch -Brand new minigames launched -DeFi features (Staking & Farming) -Branded merchandise/ Extending BitSniper ecosystem -Implement Burn Tax on transactions -Stable release of BitSniper 1.1
+                                  Perpetual beta launch of BitSniper PvP v4 -Release of the Shootout Death Match v1 -NFT marketplace launch -Brand new minigames launched -DeFi features Staking & Farming -Branded merchandise/ Extending BitSniper ecosystem -Implement Burn Tax on transactions -Stable release of BitSniper 1.1
                                   </div>
 
                                  
@@ -362,7 +342,7 @@ export default function Home() {
                                   </div> 
                                   <span className='text-lightgreen'>PHASE 2 : 2023 Q1</span>
                                   <div className='text-xs py-5'>
-                                  Requirement analyses/ Software design/ Software development and unit testing -Pre-alpha testing and milestone release -User flow UX charts -Customization design/ Metagame design/ Technology stack definition -3D models/ 3D animations/ VFX concepts/ Prototypes -UI (in-game) design -BitSniper.io Website Launch -BitSniper Gameplay Teaser Whitepaper v2 released -LP locked & ownership renounced -Comply with KYC and AML regulationS
+                                  Requirement analyses/ Software design/ Software development and unit testing -Pre-alpha testing and milestone release -User flow UX charts -Customization design/ Metagame design/ Technology stack definition -3D models/ 3D animations/ VFX concepts/ Prototypes -UI in-game design -BitSniper.io Website Launch -BitSniper Gameplay Teaser Whitepaper v2 released -LP locked & ownership renounced -Comply with KYC and AML regulationS
                                   </div>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
             </div>
            </div>

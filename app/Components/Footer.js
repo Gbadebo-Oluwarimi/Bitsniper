@@ -39,7 +39,7 @@ export default function Footer() {
                           <a href="staking" class="hover:underline">About Staking</a>
                       </li>
                       <li class="mb-4">
-                          <a href="/usageofnfts" class="hover:underline">The Usage of NFT's</a>
+                          <a href="/usageofnfts" class="hover:underline">The Usage of NFTs</a>
                       </li>
                   </ul>
               </div>
