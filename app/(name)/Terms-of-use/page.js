@@ -22,7 +22,7 @@ const page = () => {
                             <div className='items-center align-middle text-center'>xf</div>
                               </div>
                               <div className='text-5xl mt-32 inline-block font-bold'>
-                              <div className='text-xs text-lightgreen pb-4 font-semibold'> Bitsniper's Terms of Use</div>
+                              <div className='text-xs text-lightgreen pb-4 font-semibold'> Bitsnipers Terms of Use</div>
                             
                                  Terms of Use
                                  
@@ -39,7 +39,7 @@ const page = () => {
   Use License
     <div className='p-1 bg-lightgreen w-32 mb-8 mt-3'></div>
   </div><br/>
-  These Terms of Use permit you to use the Website for your personal, non-commercial use only. You may not: • modify or copy the materials; • use the materials for any commercial purpose, or for any public display (commercial or non- commercial); • remove any copyright or other proprietary notations from the materials; This license shall automatically terminate if you violate any of these restrictions and may be terminated by Bitsniper Kft at any time. Upon termination of this license, you must destroy any materials in your possession whether in electronic or printed format.
+  These Terms of Use permit you to use the Website for your personal, non-commercial use only. You may not: • modify or copy the materials; • use the materials for any commercial purpose, or for any public display commercial or non- commercial; • remove any copyright or other proprietary notations from the materials; This license shall automatically terminate if you violate any of these restrictions and may be terminated by Bitsniper Kft at any time. Upon termination of this license, you must destroy any materials in your possession whether in electronic or printed format.
   </div>
 
 
@@ -48,7 +48,7 @@ const page = () => {
  Disclaimer
     <div className='p-1 bg-lightgreen w-32 mb-8 mt-3'></div>
   </div><br/>
-  The materials on www.bitsniper.io website are provided on an ‘as is’ basis. Bitsniper Kft makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties including, without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or noninfringement of intellectual property or other violation of rights. Further, Bitsniper Kft does not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of the materials on its website or otherwise relating to such materials or on any sites linked to this site.
+  The materials on www.bitsniper.io website are provided on an as is basis. Bitsniper Kft makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties including, without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or noninfringement of intellectual property or other violation of rights. Further, Bitsniper Kft does not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of the materials on its website or otherwise relating to such materials or on any sites linked to this site.
   </div>
 
   <div className='pt-7'>
@@ -56,7 +56,7 @@ const page = () => {
   Limitations
     <div className='p-1 bg-lightgreen w-32 mb-8 mt-3'></div>
   </div><br/>
-  In no event shall Bitsniper Kft or its subcontractors be liable for any damages (including, without limitation, damages for loss of data or profit, or due to business interruption) arising out of the use or inability to use the materials on this website, even if Bitsniper Kft or a Bitsniper Kft authorized representative has been notified orally or in writing of the possibility of such damage. Because some jurisdictions do not allow limitations on implied warranties, or limitations of liability for consequential or incidental damages, these limitations may not apply to you.
+  In no event shall Bitsniper Kft or its subcontractors be liable for any damages including, without limitation, damages for loss of data or profit, or due to business interruption arising out of the use or inability to use the materials on this website, even if Bitsniper Kft or a Bitsniper Kft authorized representative has been notified orally or in writing of the possibility of such damage. Because some jurisdictions do not allow limitations on implied warranties, or limitations of liability for consequential or incidental damages, these limitations may not apply to you.
   </div>
   <div className='pt-7'>
   <div className='text-2xl text-white inline-block'>

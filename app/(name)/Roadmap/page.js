@@ -30,11 +30,11 @@ const page = () => {
                               Phases
 Phase [ 1 ]
 
-– Conceptualization, idea and beta-test completed project BitSniperConceptualization, idea and beta-test completed project BitSniper
-–  Team building
-– Art style definition/ Game visual style
-– Game mechanics description
-– Sara upgrade
+ Conceptualization, idea and beta-test completed project BitSniperConceptualization, idea and beta-test completed project BitSniper
+  Team building
+ Art style definition/ Game visual style
+ Game mechanics description
+ Sara upgrade
 
 2023 Q1
 • Conceptualization, idea and beta-test completed project BitSniper 
@@ -47,7 +47,7 @@ Phase [ 1 ]
 • User flow UX charts
 • Customization design/ Metagame design/ Technology stack definition
 • 3D models/ 3D animations/ VFX concepts/ Prototypes
-• UI (in-game) design
+• UI in-game design
 • BitSniper.io Website Launch
 • BitSniper Gameplay Teaser
 • Whitepaper v2 released
@@ -58,7 +58,7 @@ Phase [ 1 ]
  • Pre-alpha testing and milestone release • User flow UX charts 
 • Customization design/ Metagame design/ Technology stack definition 
 • 3D models/ 3D animations/ VFX concepts/ Prototypes 
-• UI (in-game) design
+• UI in-game design
 • BitSniper.io Website Launch
 • BitSniper Gameplay Teaser
 • Whitepaper v2 released
@@ -85,9 +85,9 @@ Phase [ 1 ]
 • Voting rights for the BitSniper community
 • Debut NFT collaboration with crypto influencers
 2024 Q1/Q2
-• New arena maps for Shootout 2 (Die Hard series)
+• New arena maps for Shootout 2 Die Hard series
 • NFT upgrades/ Accessories drop
-• Esport tournaments worldwide (Bitsniper Die Hard series)
+• Esport tournaments worldwide Bitsniper Die Hard series
 • Listing on all major CEX and DEX exchanges
 • AI training platform for BitSniper Series
 • Land sale Bitsniper districts 4, 5 and 6

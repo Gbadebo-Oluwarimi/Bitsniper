@@ -20,11 +20,11 @@ const page = () => {
                   <span class="self-center text-xl font-semibold whitespace-nowrap dark:text-white px-2">BitSniper.io</span>
                    
                     </Link>
-                            <div className='items-center align-middle text-center'>xf</div>
+                            <div className='items-center align-middle text-center'>Contact</div>
                               </div>
                               <div className='text-6xl mt-32 font-bold mb-14 text-lightgreen'>
-                                  Buying and Selling
-                                  {/* <div className='text-2xl pt-4'>Why register my cryptocurrency<br/> wallet?</div> */}
+                                  Contact Us
+                                 
                               </div>
                               <div className='pt-8 text-sm font-semibold'>
                               Get in touch

@@ -52,9 +52,9 @@ const page = () => {
                                     <div className='p-1 bg-lightgreen w-32 mb-8 mt-3'></div></div>
                                   <br/>Here are the benefits of AMMO staking:
                                   <ul className='list-disc mx-5'>
-                                    <li className='py-2'>It’s an easy way to earn interest on your AMMO holdings.</li>
-<li className='py-2'>You don’t need any equipment for AMMO staking like you would for mining</li></ul>
-The primary benefit of staking AMMO tokens is that you earn more AMMO tokens, and interest rates are very generous. With project Bitsniper, you can earn more than 45% per year. It’s potentially a very profitable way to invest, and the only thing you need is AMMO tokens.
+                                    <li className='py-2'>Its an easy way to earn interest on your AMMO holdings.</li>
+<li className='py-2'>You dont need any equipment for AMMO staking like you would for mining</li></ul>
+The primary benefit of staking AMMO tokens is that you earn more AMMO tokens, and interest rates are very generous. With project Bitsniper, you can earn more than 45% per year. Its potentially a very profitable way to invest, and the only thing you need is AMMO tokens.
                               </div>
 
 <br/><br/>

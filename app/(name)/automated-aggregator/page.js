@@ -21,7 +21,7 @@ const page = () => {
                               <div className='text-xs text-lightgreen pb-4 font-semibold'>Effortless ERC20 Swaps with Bitsniper Aggregator</div>
                             
                                  Autoomated Aggregator
-                                  <div className='text-lg pt-4 text-gray-400 font-light'>Simplified Swaps: Bitsniper Aggregator's <br/>Hassle-Free ERC20 Exchange Services</div>
+                                  <div className='text-lg pt-4 text-gray-400 font-light'>Simplified Swaps: Bitsniper Aggregators <br/>Hassle-Free ERC20 Exchange Services</div>
                               </div>
                               <div className='pt-8 '>
                               Forget the hassle of checking multiple exchanges on a quest for the best possible rate. Bitsniper Aggregator does all the heavy lifting by gathering multiple offers and providing you with all the necessary tools for private, secure and swift AMMO and ERC20 swaps at the best rate.

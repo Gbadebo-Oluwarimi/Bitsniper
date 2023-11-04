@@ -28,15 +28,15 @@ const page = () => {
                               </div>
                               <div className=' font-semibold'>
                               <button className='border-2 border-lightgreen p-2 mr-3 text-xs w-full my-7'>Buy Now</button>
-                              BitSniper’s swap function provides an easy and convenient way for users to trade their crypto tokens for in-game tokens. The process is simple and user-friendly, making it accessible to both new and experienced users. Here’s how the swap function works:
+                              BitSnipers swap function provides an easy and convenient way for users to trade their crypto tokens for in-game tokens. The process is simple and user-friendly, making it accessible to both new and experienced users. Heres how the swap function works:
           <br/><br/>
           
           1. Sign in to your BitSniper account.<br/><br/>
-          2. Select the “Swap” option from the main menu.<br/><br/>
+          2. Select the Swap option from the main menu.<br/><br/>
           3. Choose the crypto token you would like to trade for in-game tokens. BitSniper supports almost all popular crypto tokens, including Bitcoin, Ethereum, and others.<br/><br/>
           4. Enter the amount of the crypto token you would like to trade.<br/><br/>
           Review the conversion rate and the estimated amount of in-game tokens you will receive.<br/><br/>
-          5. Confirm the transaction by clicking on the “Swap” button.<br/><br/>
+          5. Confirm the transaction by clicking on the Swap button.<br/><br/>
           6. The crypto tokens will be exchanged for in-game tokens and added to your account balance. The swap function on BitSniper is fast, secure, and transparent. The exchange rate is updated in real-time and all transactions are processed through a secure and encrypted platform to ensure the safety of your assets.<br/>
                               </div>
                           

@@ -25,7 +25,7 @@ const page = () => {
                               </div>
                               <div className='text-md'>
                               <div className='pt-8'>
-                              Using Polygon, users can interact with any decentralized application (DApp) without ever having to worry about network congestion.<br/><br/>
+                              Using Polygon, users can interact with any decentralized application DApp without ever having to worry about network congestion.<br/><br/>
           
           Bitsniper utilises blockchain technology and therefore a wallet is required in order for you to be able to interact with this blockchain technology. Your wallet will securely authorise your access to the website and help you to keep track of any transactions that you perform. <br/><br/>
           It will act as storage for Polygon Network tokens that you hold, as well as any virtual goods that you own, such as weapons or property. For example, when you earn some $AMMO via Bitsniper Play2Earn, you will need a place to store it.<br/><br/>
@@ -37,7 +37,7 @@ const page = () => {
                                     <div className='p-1 bg-lightgreen w-32 mb-8 mt-3'></div></div>
                                   <br/>Your funds and NFTs are in whichever wallet that you connected to your account when you registered. It is your sole responsibility to remember and keep safe your cryptocurrency wallet credentials and the tokens inside that wallet.<br/><br/>
           
-          If you registered through the Web3 option, you likely have a MetaMask wallet (https://metamask.io/), or a Brave wallet if you use the Brave browser).<br/><br/>
+          If you registered through the Web3 option, you likely have a MetaMask wallet https://metamask.io/, or a Brave wallet if you use the Brave browse.<br/><br/>
           Use the link above to access your wallet. When you have accessed your wallet, there are tools within it to withdraw your tokens.s
                               </div>
                               <div className='pt-7'>
@@ -52,7 +52,7 @@ const page = () => {
           
           You can transfer $AMMO tokens to your preferred wallet. There is a send option within the wallet.<br/><br/>
           
-          You can transfer NFTs, such as weapons and NFT-skins to another of your wallets using the “Gifting” features on NFT exchanges like OpenSea and Rarible.<br/><br/>
+          You can transfer NFTs, such as weapons and NFT-skins to another of your wallets using the Gifting features on NFT exchanges like OpenSea and Rarible.<br/><br/>
           
           Triple check that any wallet addresses you are sending your $AMMO and NFTs to is correct before initiating the transfer. There is no way to recover currency or NFTs that were sent to an incorrect address.<br/><br/>
                               </div>

@@ -26,7 +26,7 @@ const page = () => {
                                   <div className='text-lg text-white inline-block'>
                                   BUYING NFTS ON THE PLATFORM
                                     <div className='p-1 bg-lightgreen w-32 mb-8 mt-3'></div></div>
-                                  <br/>Players have the option to buy unique in-game items, such as weapons, weapons skins, attachments or character skins, as NFTs. These NFTs can be purchased from other players or directly from the game’s marketplace using the $AMMO token. The rarity and value of each NFT is determined by its attributes, such as its power, durability, or design. As players progress in the game and earn rewards, they can use their earnings to purchase NFTs, which can aid them with advantages in the games to come.
+                                  <br/>Players have the option to buy unique in-game items, such as weapons, weapons skins, attachments or character skins, as NFTs. These NFTs can be purchased from other players or directly from the games marketplace using the $AMMO token. The rarity and value of each NFT is determined by its attributes, such as its power, durability, or design. As players progress in the game and earn rewards, they can use their earnings to purchase NFTs, which can aid them with advantages in the games to come.
                               </div>
               
                               <div className='pt-7'>
