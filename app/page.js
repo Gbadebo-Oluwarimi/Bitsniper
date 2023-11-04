@@ -1,6 +1,5 @@
 "use client"
 
-import { motion, AnimatePresence } from 'framer-motion';
 import { useEffect } from 'react';
 import Image from 'next/image'
 import localFont from 'next/font/local'
@@ -23,7 +22,7 @@ export default function Home() {
        })
  }, [])
   return (
-    <AnimatePresence>
+    
     <div className="overflow-hidden" style={myfont.style}>
 
 
@@ -422,6 +421,6 @@ export default function Home() {
 
     
     </div>
-    </AnimatePresence>
+    
   )
 }
